@@ -7,7 +7,7 @@
 		<!-- Assume test is the database name -->
 		<property name="hibernate.connection.url">jdbc:mysql://localhost:3306/mydb</property>
 		<property name="hibernate.connection.username">root</property>
-		<property name="hibernate.connection.password">Debkanta@1998</property>
+		<property name="hibernate.connection.password">Srikanta@123</property>
 		<!-- List of XML mapping files -->
 		<property name="hibernate.hbm2ddl.auto">update</property>
 		<mapping class="com.Scanner.Entity.UserClass"/>
